@@ -4,16 +4,6 @@
  * 	Nov 15th 2017
  */
 
-
-/*
- *  I did not fully understand the pseudo code
- *  I have integrated all of it but it is not working
- *  properly as it was. I added some things to the
- *  original pseudo code so that the final results make
- *  sense.
- */
-
-
 #include<math.h>
 #include<stdlib.h>
 #include<stdio.h>
