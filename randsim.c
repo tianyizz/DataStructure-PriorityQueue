@@ -1,17 +1,9 @@
 
-/* this uses log() from the math library, which might need the library */
 /* linked in with -lm on the compile command line */
 
 #include <stdlib.h>
 #include <math.h>
 #include "randsim.h"
-
-/* NOTE TO PROGRAMMERS - you MUST put a function prototype in your code */
-/* for each of the functions you plan to call. */
-
-/* double M1 = 4.5;   median of the exponential function */
-/* double M2 = 4.5;   median of the gaussian function */
-/* double D2 = 2.2;   Std deviation of the gaussian function */
 
 /* Uniform Distribution */
 double randsim_uni()
